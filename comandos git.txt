@@ -1,0 +1,35 @@
+criar pasta - mkdir nomePasta
+entrar na pasta - cd nomePasta
+iniciar git -  git init
+configurar git 
+
+nome
+git config --global user.name = "Nome"
+
+email 
+git config --global user.email = email
+
+ver o status 
+git status
+
+adicionar os arquivos pendentes ao git
+git add .
+
+adicionar somente um arquivo
+git add "nomeDoArquivo.txt"
+
+criar commit 
+git commit -m "mensagem referente a versão"
+
+ver commits 
+git log
+
+ver as alterações do commit
+git show
+
+ver as alterações de um commit especifico 
+git show codigo da commit
+
+
+
+
